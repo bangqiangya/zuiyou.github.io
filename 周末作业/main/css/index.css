@@ -1,0 +1,39 @@
+.flex{
+    width: 100%;
+}
+.box{
+    width: 1190px;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 10px;
+}
+.tupianzhanshi{
+    padding: 5px; 
+    border: 1px #F5F5F5 solid;
+    /* margin-right: 20px; */
+    margin: 0 10px;
+}
+.zitiyanse{
+    color: red;
+    font-size: 20px;
+    
+}
+.zitidaxiao{
+    font-size: 12px;
+    margin-top: -10px;
+}
+.chengjiaoziti{
+    height: 30px;
+    color:gray;
+    font-Size:12px;
+    border-top: 1px #F5F5F5 solid;
+    margin-bottom: -5px;
+    line-height: 30px;
+}
+.photo{
+    height: 16px;
+    padding: 7px 24px 7px 20px;
+    margin-left: 40px;
+    border-left: 1px solid #EEEEEE;
+}

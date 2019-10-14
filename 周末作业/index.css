@@ -1,0 +1,91 @@
+.box1{
+    width: 100%;
+    margin-top: 90px;
+}
+.box2{
+   width: 1200px;
+   height: 400px;
+    margin: 0 auto;
+    /* background: yellow; */
+}
+.box3{
+    width: 1200px;
+    height:20px;
+    /* background: blueviolet; */
+}
+.box3 >img{
+    display:inline-block;
+    vertical-align:middle;
+}
+.lianjie{
+    width: 1200px;
+    height: 80px;
+    /* background: rgb(0, 255, 255); */
+}
+.lianjie >img{
+    margin-left: 50px;
+}
+.ziti{
+    width: 1200px;
+    height: 200px;
+    /* background: chartreuse; */
+}
+.tubiao{
+    width: 200px;
+    height: 250px;
+    /* background: chocolate; */
+    float: left;
+}
+.neirong{
+    width: 200px;
+    height: 250px;
+    /* background: yellowgreen; */
+    float: left;
+}
+.neirong2{
+    width: 200px;
+    height: 250px;
+    /* background: purple; */
+    float: left;
+}
+.neirong3{
+    width: 200px;
+    height: 250px;
+    /* background: pink; */
+    float: left;
+}
+.neirong4{
+    width: 200px;
+    height: 250px;
+    /* background: papayawhip; */
+    float: left;
+}
+.neirong5{
+    width: 200px;
+    height: 250px;
+    /* background: powderblue; */
+    float: left;
+}
+.twobox{
+    width: 100%;
+    height: 250px;
+    background:#0860DC;
+}
+.xiaohezi{
+    width: 1200px;
+    height: 250px;
+    background: #0860DC;
+    margin: 0 auto;
+}
+.xiaohezi >p{
+    font-size: 15px;
+    
+}
+.xiaomao >img{
+    position: relative;
+    top: 48px;
+}
+.xiaohezi >img{
+    display:inline-block;
+    vertical-align:middle;
+}
